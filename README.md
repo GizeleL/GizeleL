@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Gizele </h1>
-<h3 align="center">Eu trabalho com análise e visualização de dados científicos </h3>
+<h2 align="center">Eu trabalho com análise e visualização de dados científicos </h2>
 <h3 align="center">Atualmente estou migrando da carreira acadêmica para o mundo dos negócios</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados científicos **WCD-Analysis**
