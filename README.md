@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Gizele </h1>
-<h2 align="center">Eu trabalho com análise e visualização de dados científicos </h2>
+<h2 align="center">Eu trabalho com análise e visualização de dados </h2>
 <h3 align="center">Atualmente estou migrando da carreira acadêmica para o mundo dos negócios</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados científicos **WCD-Analysis**
@@ -8,7 +8,7 @@
 
 - 👯 Estou colaborando com o observatório **SWGO**
 
-- 💬 Me pergunte sobre **Python, Geant4, LateX ,Excel e elavoração de relatórios**
+- 💬 Me pergunte sobre **Python, Geant4, LateX ,Excel, estatística e elaboração de relatórios**
 
 - 📫 Pode entrar em contato comigo através de **gizelelian@gmail.com**
 
