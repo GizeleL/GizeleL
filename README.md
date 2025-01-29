@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou a Gizele </h1>
+<h1 align="center">Olá 👋</h1>
 <h2 align="center">Eu trabalho com análise e visualização de dados científicos </h2>
 
   
