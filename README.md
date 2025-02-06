@@ -4,7 +4,7 @@
   
 - ⚡ Sou barachel em física pela UFRJ e atualmente curso o mestrado no CBPF, em astrofísica multimensageira.
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados científicos **WCD-Analysis**
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados  **DataAnalysis**
 
 - 🌱 Atualmente estou aprendendo **SQL e PowerBi**
 
